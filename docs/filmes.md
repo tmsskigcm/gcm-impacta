@@ -7,9 +7,9 @@
 * Star Wars
 * O Senhor dos Anéis
 
-## Filmes preferidos de INTEGRANTE2
+## Filmes preferidos de tmsasaki
 
-* Filme 1
-* Filme 2
-* Filme 3
-* Filme 4
+* Os caçadores da arca perdida
+* De volta para o futuro
+* Planeta dos macacos
+* Os Vingadores
