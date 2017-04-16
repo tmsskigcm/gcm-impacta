@@ -1,11 +1,11 @@
 # Filmes preferidos da equipe
 
-## Filmes preferidos de INTEGRANTE1
+## Filmes preferidos de tmsski
 
-* Filme 1
-* Filme 2
-* Filme 3
-* Filme 4
+* Matrix
+* Superman
+* Star Wars
+* O Senhor dos Anéis
 
 ## Filmes preferidos de INTEGRANTE2
 
