@@ -1,8 +1,8 @@
 # Séries preferidas da equipe
 
-## Membro 1
+## tmsasaki
 
-* Série A
-* Série B
-* Série C
-* Série D
+* Awake
+* OA
+* Walking Dead
+* Flash
